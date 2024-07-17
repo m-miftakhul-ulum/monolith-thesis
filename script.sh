@@ -11,7 +11,7 @@ sudo pip3 install virtualenv
 git clone https://github.com/m-miftakhul-ulum/monolith-thesis.git
 
 # Navigate into the cloned repository directory
-cd skripsi/stagging/monolith-thesis
+cd monolith-thesis
 
 # Create a virtual environment and activate it
 virtualenv env
